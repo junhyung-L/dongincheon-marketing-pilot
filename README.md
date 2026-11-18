@@ -123,3 +123,7 @@ docs/[붙임1]2025년 PBL 프로그램 안내문.pdf          # Program and eval
 images/vacancy.jpg                                # Diagnosis visual
 images/results.jpg                                # Pilot-result visual
 ```
+
+## License
+
+No open-source license: the code and documents are public for review; reuse requires permission.

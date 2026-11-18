@@ -8,6 +8,12 @@ Dong-Incheon, run as a 30-day pilot at one traditional tea shop, Madam Tea.
 **Result (30-day pilot, one store, before/after):** 4 new Naver reviews after
 none since Dec 2024, and +25% average monthly sales.
 
+**Scope.** One store, before/after, no comparison store: not a causal or
+incremental estimate, and raw POS data and pre-pilot baselines are not
+available. There is no code to run; the evidence is the
+[final presentation (PDF)](docs/서브로컬팀_PBL_발표자료.pdf) and the
+[result slide](images/results.jpg).
+
 **Problem:** 40% vacancy in the Dong-Incheon, Sinpo, and Bukseong-dong area
 (1,073 vacant out of 2,612 stores; 2020 Incheon/Jung-gu commercial-district
 survey, via Yonhap News).
@@ -20,8 +26,6 @@ first place), 2025 PBL Program, awarded 27 Feb 2026. Marketing & Data Analysis
 in the five-person Sub-Local team: turned vacancy data and merchant interviews
 into the pilot's action items, and ran the Naver Place, Instagram, and
 short-form work.
-
-[Final presentation (PDF)](docs/서브로컬팀_PBL_발표자료.pdf) · [Result slide](images/results.jpg). There is no code to run.
 
 ## At a glance
 

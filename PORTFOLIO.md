@@ -4,13 +4,20 @@
 
 ## At a glance
 
-This project tackled the revitalisation of old-downtown alley commerce around Dong-Incheon Station. The Sub-Local team converted a broad “declining commercial district” problem into three observable gaps—digital disconnection, weak in-store appeal, and lack of repeatable promotion—and ran a 30-day pilot with the traditional tea shop Madam Tea. It received the 2025 PBL Grand Prize (Incheon Metropolitan City Mayor’s Award, first place).
+This project tackled the revitalisation of old-downtown alley commerce around Dong-Incheon Station. The Sub-Local team converted a broad “declining commercial district” problem into three observable gaps—digital disconnection, weak in-store appeal, and lack of repeatable promotion—and ran a 30-day pilot with the traditional tea shop Madam Tea. It received the 2025 PBL Grand Prize (Incheon Metropolitan City Mayor’s Award, first place), awarded on 27 Feb 2026.
 
 The repository identifies Junhyung Lee’s role as Marketing & Data Analysis. That work covers vacancy/field diagnosis and the channel-content execution. The presentation reports a 600% increase in new 2030 visitors, a 25% increase in average monthly sales, and four new Naver reviews during the pilot. These are store-reported, before/after pilot figures—not a randomized causal estimate.
 
+## My contribution
+
+Sub-Local was a team of five university students with PM, content, admin, marketing, and design roles. My recorded role was Marketing & Data Analysis:
+
+- **Mine:** structuring the vacancy statistic and field-interview findings into the three operational gaps, and executing the channel work—Naver Place, the `madam_tea` Instagram account, and short-form content.
+- **Team or merchant:** project management, content production, administration, design, the in-store spatial experience, and day-to-day store operation. I do not claim these, or the award, as individual work.
+
 ## Diagnosing the commercial problem
 
-The team began with 1,073 vacant stores among 2,612 in the target area, roughly a 40% vacancy rate. Field visits and merchant interviews then made the aggregate number actionable.
+The team began with 1,073 vacant stores among 2,612 in the Dong-Incheon, Sinpo, and Bukseong-dong area, roughly a 40% vacancy rate. The presentation cites Yonhap News, which reported the 2020 Incheon/Jung-gu commercial-district survey; it is a secondary figure, not a count the team collected. Field visits and merchant interviews then made the aggregate number actionable.
 
 | Observation | Diagnosis | Pilot response |
 |---|---|---|
@@ -25,6 +32,16 @@ The strategy reframed the vague aim of attracting young visitors into three conn
 Madam Tea had neither Naver Map registration nor an Instagram account, and the appeal of its traditional-tea offering was unclear to a new visitor. The team redefined it as “a place to seal time” and created a sealing-wax letter experience: write a letter over tea, seal it with wax, and receive it a year later. Naver Place was updated with photos, store information, and two offers—KRW 2,000 sealing-wax letters and a KRW 40,000 reservation-only tea omakase. The `madam_tea` Instagram account, banners, and short-form storytelling completed the digital path.
 
 This was not an online-acquisition-only intervention. Discovery through search was linked to an in-store experience, which could then produce photos, reviews, and content for subsequent discovery. Keeping those pieces connected was the central O2O design decision.
+
+## Decisions
+
+**1. How to quantify the starting problem.** Options: run a new store-by-store vacancy count, or start from a published statistic and spend field time on interviews. The team used the published 2020 survey figure (40%, 1,073 of 2,612) and put field time into merchant interviews. Why: the interviews explained *why* busy streets and empty alleys coexisted, which the count alone could not. Cost: the vacancy figure is about five years older than the pilot and was not re-verified on the ground.
+
+**2. Where to act first.** Options: a district-wide campaign or policy proposal, or one store tested end to end. The team chose one legacy merchant, Madam Tea, for 30 days, and only then wrote the Dong-Incheon Masters proposal. Why: a single store could be changed and measured within the programme, so the proposal could point to an executed case rather than an idea. Cost: one store and no comparison store, so the result cannot be generalised to the district.
+
+**3. What to change.** Options: online promotion only (posts, ads), or a linked loop of discovery, in-store experience, and shareable content. The team chose the linked loop because the diagnosis found all three gaps at once. Cost: no single element's effect can be separated, and the work spread across content, design, and space; the presentation reports a total project budget of KRW 1,160,500.
+
+**4. How to report the outcome.** Options: present the slide figures as marketing impact, or present them as one-store, 30-day before/after observations with their source. I chose the second for this portfolio. Cost: a weaker headline, in exchange for claims that hold up when a reviewer asks how they were measured.
 
 ## Results, ownership, and boundary
 

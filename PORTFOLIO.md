@@ -4,20 +4,37 @@
 
 ## At a glance
 
-This project tackled the revitalisation of old-downtown alley commerce around Dong-Incheon Station. The Sub-Local team converted a broad “declining commercial district” problem into three observable gaps—digital disconnection, weak in-store appeal, and lack of repeatable promotion—and ran a 30-day pilot with the traditional tea shop Madam Tea. It received the 2025 PBL Grand Prize (Incheon Metropolitan City Mayor’s Award, first place), awarded on 27 Feb 2026.
+Old-downtown alley commerce around Dong-Incheon Station had foot traffic but
+little online visibility and weak appeal to young visitors. The Sub-Local team
+turned this broad "declining district" problem into three observable gaps,
+digital disconnection, weak in-store appeal, and no repeatable promotion, and
+ran a 30-day pilot at the traditional tea shop Madam Tea. A field and marketing
+project, not an app or model. 2025 PBL Grand Prize (Incheon Metropolitan City
+Mayor's Award, first place), awarded 27 Feb 2026.
 
-The repository identifies Junhyung Lee’s role as Marketing & Data Analysis. That work covers vacancy/field diagnosis and the channel-content execution. The presentation reports a 600% increase in new 2030 visitors, a 25% increase in average monthly sales, and four new Naver reviews during the pilot. These are store-reported, before/after pilot figures—not a randomized causal estimate.
+The presentation reports a 600% increase in new visits from people in their
+20s–30s, a 25% increase in average monthly sales, and four new Naver reviews
+during the 30-day pilot, from one store's before/after operating records.
 
-## My contribution
+## Role
 
-Sub-Local was a team of five university students with PM, content, admin, marketing, and design roles. My recorded role was Marketing & Data Analysis:
+Sub-Local was a team of five university students with PM, content, admin,
+marketing, and design roles. Role: Marketing & Data Analysis.
 
-- **Mine:** structuring the vacancy statistic and field-interview findings into the three operational gaps, and executing the channel work—Naver Place, the `madam_tea` Instagram account, and short-form content.
-- **Team or merchant:** project management, content production, administration, design, the in-store spatial experience, and day-to-day store operation. I do not claim these, or the award, as individual work.
+- **Marketing & Data Analysis:** structuring the vacancy statistic and
+  field-interview findings into the three operational gaps, and executing the
+  channel work: Naver Place, the `madam_tea` Instagram account, and short-form
+  content.
+- **Team or merchant:** project management, content production,
+  administration, design, the in-store spatial experience, and day-to-day store
+  operation.
 
 ## Diagnosing the commercial problem
 
-The team began with 1,073 vacant stores among 2,612 in the Dong-Incheon, Sinpo, and Bukseong-dong area, roughly a 40% vacancy rate. The presentation cites Yonhap News, which reported the 2020 Incheon/Jung-gu commercial-district survey; it is a secondary figure, not a count the team collected. Field visits and merchant interviews then made the aggregate number actionable.
+The starting figure: 1,073 vacant stores among 2,612 in the Dong-Incheon,
+Sinpo, and Bukseong-dong area, roughly 40%, cited in the presentation from
+Yonhap News reporting the 2020 Incheon/Jung-gu commercial-district survey.
+Field visits and merchant interviews made the aggregate number actionable.
 
 | Observation | Diagnosis | Pilot response |
 |---|---|---|
@@ -25,33 +42,71 @@ The team began with 1,073 vacant stores among 2,612 in the Dong-Incheon, Sinpo, 
 | Menu and space gave first-time visitors little reason to stay | weak experiential appeal | create a specific in-store story and offer |
 | No owned content or publishing habit existed | lack of promotion | open Instagram and produce storytelling short-form content |
 
-The strategy reframed the vague aim of attracting young visitors into three connected touchpoints: being found, having a reason to visit, and having an experience worth sharing. It was also extended into the Dong-Incheon Masters model, pairing local merchants with student creators for repeatable short sprints.
+The strategy reframes "attract young visitors" as three connected touchpoints:
+being found, having a reason to visit, and having an experience worth sharing.
+The Dong-Incheon Masters model extends it by pairing local merchants with
+student creators for repeatable short sprints.
 
 ## The Madam Tea pilot
 
-Madam Tea had neither Naver Map registration nor an Instagram account, and the appeal of its traditional-tea offering was unclear to a new visitor. The team redefined it as “a place to seal time” and created a sealing-wax letter experience: write a letter over tea, seal it with wax, and receive it a year later. Naver Place was updated with photos, store information, and two offers—KRW 2,000 sealing-wax letters and a KRW 40,000 reservation-only tea omakase. The `madam_tea` Instagram account, banners, and short-form storytelling completed the digital path.
+Madam Tea had neither Naver Map registration nor an Instagram account, and its
+traditional-tea offering was unclear to a new visitor. The team redefined it as
+"a place to seal time" with a sealing-wax letter experience: write a letter
+over tea, seal it with wax, and receive it a year later. Naver Place got
+photos, store information, and two offers: KRW 2,000 sealing-wax letters and a
+KRW 40,000 reservation-only tea omakase. The `madam_tea` Instagram account,
+banners, and short-form storytelling completed the digital path.
 
-This was not an online-acquisition-only intervention. Discovery through search was linked to an in-store experience, which could then produce photos, reviews, and content for subsequent discovery. Keeping those pieces connected was the central O2O design decision.
+The central O2O design: discovery through search leads to an in-store
+experience, which produces photos, reviews, and content for the next round of
+discovery.
 
 ## Decisions
 
-**1. How to quantify the starting problem.** Options: run a new store-by-store vacancy count, or start from a published statistic and spend field time on interviews. The team used the published 2020 survey figure (40%, 1,073 of 2,612) and put field time into merchant interviews. Why: the interviews explained *why* busy streets and empty alleys coexisted, which the count alone could not. Cost: the vacancy figure is about five years older than the pilot and was not re-verified on the ground.
+**1. How to quantify the starting problem.** Options: a new store-by-store
+vacancy count, or a published statistic plus field interviews. Choice: the
+published 2020 survey figure (40%, 1,073 of 2,612), with field time spent on
+merchant interviews. Why: interviews explained *why* busy streets and empty
+alleys coexisted, which a count could not. Cost: the figure is about five years
+older than the pilot and was not re-verified on the ground.
 
-**2. Where to act first.** Options: a district-wide campaign or policy proposal, or one store tested end to end. The team chose one legacy merchant, Madam Tea, for 30 days, and only then wrote the Dong-Incheon Masters proposal. Why: a single store could be changed and measured within the programme, so the proposal could point to an executed case rather than an idea. Cost: one store and no comparison store, so the result cannot be generalised to the district.
+**2. Where to act first.** Options: a district-wide campaign or policy
+proposal, or one store tested end to end. Choice: Madam Tea for 30 days, then
+the Dong-Incheon Masters proposal. Why: one store could be changed and measured
+within the programme, so the proposal rests on an executed case. Cost: one
+store and no comparison store, so the result does not generalise to the
+district.
 
-**3. What to change.** Options: online promotion only (posts, ads), or a linked loop of discovery, in-store experience, and shareable content. The team chose the linked loop because the diagnosis found all three gaps at once. Cost: no single element's effect can be separated, and the work spread across content, design, and space; the presentation reports a total project budget of KRW 1,160,500.
+**3. What to change.** Options: online promotion only (posts, ads), or a linked
+loop of discovery, in-store experience, and shareable content. Choice: the
+linked loop, because the diagnosis found all three gaps at once. Cost: no
+single element's effect can be separated, and the work spread across content,
+design, and space; the presentation reports a total project budget of KRW
+1,160,500.
 
-**4. How to report the outcome.** Options: present the slide figures as marketing impact, or present them as one-store, 30-day before/after observations with their source. I chose the second for this portfolio. Cost: a weaker headline, in exchange for claims that hold up when a reviewer asks how they were measured.
+## Results
 
-## Results, ownership, and boundary
-
-The result slide states that four Naver reviews appeared in one month after no activity since December 2024, average monthly sales increased by 25%, and new 2030 visits increased by 600%. The period is the 30-day pilot and the evidence is the team’s presentation compiled from store operation/visitor records. Individual contribution is limited to marketing and data-analysis work; design, spatial experience, and store operations remain team or merchant work.
-
-The repository does not retain baseline values, raw daily POS exports, acquisition logs, or a comparison store. The figures should therefore not be described as incremental impact caused only by marketing. They are nevertheless tied to a named store, a defined pilot period, and recorded measures—stronger than an untested proposal.
+The result slide states that four Naver reviews appeared in one month after no
+activity since December 2024, average monthly sales rose 25%, and new visits
+from people in their 20s–30s rose 600%. Period: the 30-day pilot. Source: the
+team's presentation, compiled from store operation and visitor records.
 
 ## Scaling the learning
 
-The team discussed feasibility with Incheon’s Small Business Policy Division and proposed a programme that selects legacy merchants, matches them with students for a 30-day sprint, then provides digital basics plus optional experience/content design. The reported response is an exploratory feasibility check, not a policy-adoption commitment. A next pilot should fix baseline definitions and POS extraction, include a comparison store, and track 30/60/90-day cohorts before treating the model as scalable evidence.
+The team proposed a programme that selects legacy merchants, matches them with
+students for a 30-day sprint, and provides digital basics plus optional
+experience/content design. A phone inquiry to Incheon's Small Business Policy
+Division checked feasibility; the presentation records a response that it
+could be reviewed once results are proven.
+
+## Limitations
+
+- Baseline values, raw daily POS exports, acquisition logs, and a comparison store are not retained, so the figures are not incremental impact caused by marketing alone.
+- The city response is an exploratory feasibility check, not a policy-adoption commitment.
+
+## Next steps
+
+- Fix baseline definitions and POS extraction, include at least one comparison store, and track 30/60/90-day cohorts before treating the model as scalable evidence.
 
 ## Evidence
 

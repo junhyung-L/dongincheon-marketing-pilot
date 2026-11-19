@@ -6,7 +6,7 @@ A field research and marketing project: a diagnosis of old-downtown
 Dong-Incheon, run as a 30-day pilot at one traditional tea shop, Madam Tea.
 
 **Result (30-day pilot, one store, before/after):** 4 new Naver reviews after
-none since Dec 2024, and +25% average monthly sales.
+none since Dec 2024, and +25% average monthly sales (team presentation figure; base amount not available).
 
 **Scope.** One store, before/after, no comparison store: not a causal or
 incremental estimate, and raw POS data and pre-pilot baselines are not
